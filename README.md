@@ -28,7 +28,7 @@ Es un examen en el que evaluamos los conceptos que se aprenden durante el Prep C
 
 ### Contamos con dos herramientas de apoyo:
 
--  **SLACK:** es una plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://www.admissions.soyhenry.com/) o desde los mails que recibiste al momento de aplicar.
+- **SLACK:** es una plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://www.admissions.soyhenry.com/) o desde los mails que recibiste al momento de aplicar.
 
 </br >
 
@@ -50,13 +50,13 @@ Para ejecutar los tests de las homeworks debes:
 
 2. Luego de que se hayan instalado las dependencias pueden comenzar a correr los tests.
 
--  Para ejecutarlos globalmente (es decir, el de todas las homeworks), ejecuta el comando:
+- Para ejecutarlos globalmente (es decir, el de todas las homeworks), ejecuta el comando:
 
 ```bash
     npm test
 ```
 
--  Si quieres ejecutar un test específico de una clase, deberás ingresar a la carpeta **`test`** desde tu terminal. Allí podrás ejecutras un test de forma individual con el comando:
+- Si quieres ejecutar un test específico de una clase, deberás ingresar a la carpeta **`test`** desde tu terminal. Allí podrás ejecutar un test de forma individual con el comando:
 
 ```bash
     npm run jest [nombreDelArchivo]
